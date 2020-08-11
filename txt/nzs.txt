@@ -1,0 +1,163 @@
+
+Our disciplined, Resilience and Optionality portfolio construction process posted year-to-date
+returns of 16.86% for the NZS Global Growth strategy and 16.08% for the NZS Global Select
+concentrated strategy, 23.11% and 22.33% , respectively, ahead of the -6.69% decline of the
+Morningstar Global Markets GR index . For the second quarter of 2020, the 1 NZS Global Growth
+strategy was up 39.95% and the NZS Global Select concentrated strategy was up 41.94%
+compared to the Morningstar Global Markets GR index at 19.79% . The NZS Global Technology
+strategy, which launched on March 16th, 2020, is up 52.46% since inception compared to the
+Morningstar Global Technology GR up 45.27%; in Q2 2020, the NZS Global Technology
+strategy was up 40.16% vs. the index at 30.50% .
+
+The research process at NZS Capital is guided by the unpredictability of the world around us.
+We believe companies that maximize non-zero-sum outcomes for all of their constituents,
+including employees, customers, suppliers, society, and the environment, will also maximize
+long-term outcomes for investors. Our view of the world informs our portfolio construction
+process, which combines a relatively small number of Resilient companies with a long tail of
+Optionality companies. Resilient businesses have very few predictions and a narrow range of
+outcomes, while Optionality businesses have a wider range of outcomes and their success
+hinges upon a more specific view of the future playing out. This combination of long-duration
+growth with asymmetric upside is well suited to navigating the increasing pace of change
+throughout the global economy.
+The following year-to-date performance discussion references the NZS Global Growth strategy,
+which represents our broadest approach in terms of number of names and sectors.
+
+The market experienced a significant decline in Q1 2020; however, technology led a rebound in
+Q2 2020. Our technology sector weight for the first half of 2020 was 62.44% of the strategy,
+which was up 18.54%. We outperformed the technology component of the index by 4.56
+percentage points . At NZS Capital, we believe volatility is not risk; rather, it represents
+opportunity. As such, we took advantage of the market conditions in Q1 to shift a portion of the
+portfolio from Resilience to Optionality. Both components of the portfolio contributed to
+performance in the period; notably, in the Resilient portion, Nvidia, Amazon, Microsoft, and
+Zendesk outperformed as the pandemic raised interest in accelerated cloud migration for
+enterprise IT departments. Optionality was also well represented in top performers by Tesla,
+Shopify, Peloton, Redfin, and Adyen. From a sector perspective, the portfolio outperformed in
+technology (as previously mentioned), consumer discretionary, and real estate (REITs), and
+benefited from not owning stocks in the financial and energy sectors.
+Among the detractors were media companies Viacom and Disney, which underperformed due
+to their advertising exposure, and, in the case of Disney, theme park shutdowns. We view these
+pressures as short term in nature and continue to own these investments. Several
+semiconductor companies weighed on performance due to slower economic demand including
+Amphenol, Soitec SA, and On Semiconductor. Semiconductors and related industries remain
+the largest portion of the portfolio given our long-term optimism for the sector. Constellium, a
+provider of rolled and extruded aluminum products for the automotive, aerospace, and beverage
+can market, detracted from performance as well. We added to the position based on the
+long-term outlook for the business. HEICO was negatively impacted by travel demand, and we
+exited the position given the risk of longer-term travel disruptions.
+We brought on three new employees to NZS Capital in the first half of 2020. Jon Bathgate and
+Joe Furmanski joined co-founders Brinton Johns and Brad Slingerlend on the investment team.
+Jon and Joe spent 12 and 14 years, respectively, at Janus Henderson Investors in Denver,
+working with Brinton and Brad for much of that period. Adam Schor, former Director of Global
+Equity Strategies at Janus Henderson Investors, joined as President and Chief Risk Officer. Jim
+Goff, former Director of Research at Janus, became a Senior Advisor to NZS Capital. We were
+pleased that a large endowment and a noted sovereign wealth fund selected us to manage a
+portion of their portfolios in the first half of 2020. We will succeed as a firm only if we meet and
+exceed the objectives of these and future clients.
+Market Commentary
+The following is adapted in part from our weekly newsletters :
+Well, that was an interesting 181 days. The COVID-19 pandemic and protests following George
+Floyd’s murder placed an even bigger spotlight on inequality. Capitalism worked for centuries to
+lift more people up from poverty than any other system over the same period. But, in its later
+days, the experiment has left far too many behind – vulnerable, and unjustly harmed. The last
+six months highlighted the hypocrisy of the tech platforms that have dominated our lives for the last two decades, as well as the ineptitude of our governments. And yet, in the West, freedom of
+expression and speech rose up to shine an even brighter light – hope for the future and a path
+forward. As we often say, cynicism sounds smart, but it’s never right in the long run. Optimism
+always wins over time, and at NZS Capital we are optimistic about the future for companies that
+create more value for society than for themselves. We strive to build our portfolios out of
+companies working toward a more positive future, and we see no shortage of opportunities
+today.
+There is much speculation in the markets that the markets have too much speculation.
+However, the current positive impacts from fiscal and monetary stimulus, combined with the
+negative impact of the short- and long-term effects of COVID-19, make it hard to know if the
+market is underpricing or overpricing risk. Before the global meltdown, “risk-free” long-term US
+government bond rates had around 2%-3% yields, corporate bond yields were a bit higher, and
+the market multiple was ~20x forward earnings. Absent the drop in interest rates and the fiscal
+stimulus, which has so far guaranteed almost all assets are “risk free” (as the central banks
+continue to purchase nearly anything to provide liquidity and stabilization), the shallow
+correction in equities seems to underprice the risk of multiple years of rolling shut downs and
+the fat-tail fallout from the pandemic. However, the penalty of holding cash at zero (or in some
+countries negative) rates is strong motivation to bid up riskier assets with higher return potential.
+Therefore, with zero rates and fiscal stimulus, the market might be unexpectedly overpricing the
+risk of the pandemic, (particularly given the reasons for low rates discussed in more detail
+below), which brings us to valuations.
+The starting point when you buy or own a stock matters. A high starting point forces you to try to
+peer further into the future, requiring very narrow predictions about how the far future will unfold
+in order to be correct in the present. Conversely, a low starting point allows for broader
+predictions, and does not require that crystal ball to be nearly as accurate. We know from
+complex systems that attempting to precisely and accurately predict the future is of little use.
+Therefore, there are two responses to a high starting point: 1) the more narrow your
+prediction(s), the smaller the position size should be (and vice versa); and 2) keep an eye on
+the totality of those small position sizes, such that you aren't making a portfolio level narrow
+prediction about valuations. It’s fairly easy when you simplify it: match the breadth of prediction
+to position size and monitor the total exposure of narrow predictions across the portfolio. None
+of this argues for selling a position entirely if the outcome asymmetry is still high; instead, it
+argues for thoughtful position sizing and portfolio construction – a good idea no matter what the
+starting point is.
+Which Came First, Low Rates or Increased Debt?
+Back in May, Warren Buffett sat by himself in an empty, 19,000-seat arena and wondered
+aloud: if rates can stay low forever, then why didn't civilization figure that out 2000 years ago?
+Over the last 20 years, there has been a persistent fear that ever-rising credit cycles will create
+ever-bigger crashes, as we saw in 2009. One might expect a major shock to the global
+economy to pop a credit bubble created by artificially low rates; this spring we got the biggest shock of them all, yet it appears the economy could eventually exit the pandemic reasonably
+intact. However, the unevenness of the recovery – with inequality rising even more as a result of
+the pandemic – remains to be addressed (a point we’ll return to shortly).
+Do low rates and seemingly infinite government monetary and fiscal stimulus perversely mean
+that shocks make the economy stronger? But, what about inflation!? Surely the flood of money
+will drive up prices and cause rates to jump higher, thus popping the giant credit bubble. But this
+hasn’t been the case, despite being decades into the steadily declining rate trend and monetary
+stimulus. Related to this, NZS Capital’s President and resident finance Lecturer, Adam Schor,
+points to the collapse 49 years ago of Bretton Woods, the post-WWII global agreement to tie
+currencies to gold. Following the extreme inflation of the 1970s, rates began a steady, 40-year,
+downward march – which the termination of Bretton Woods likely facilitated. No longer tied to
+gold, central banks can increase monetary supply and interest rates with much more flexibility.
+Did low rates increase debt, or did debt demand low rates? As an economy grows and debt
+increases, the borrowers – those people who need to make the interest payments and
+eventually return the principle – tend to be disproportionately less-wealthy, while the people who
+lend money out and make a return on it tend to be wealthier. As time goes on, the wealth of the
+wealthier is more and more tied to the interest payments from the less wealthy – one person’s
+indebtedness is another person’s asset. And, as inequality marches higher, the less wealthy
+have an ever-rising debt burden that can only be maintained by perpetually lowering interest
+rates. It’s in the best interest of the lenders to lend at lower and lower rates to preserve their
+assets. This explanation is somewhat at odds with the general narrative – that lower rates are
+the driving force behind rising debt. Certainly lower rates allow rising debt; however, the
+common view misses the crucial point that increasing debt necessitates lower rates – which
+actually has mathematical support2.
+As well as allowing rising financial inequality to go unaddressed and unchecked, decreasing
+rates have been one of the hidden deflationary forces in the economy, along with the shift from
+an asset-heavy Industrial Age to a data-heavy Information Age. Indeed, with a large number of
+people with rising indebtedness and stagnant incomes operating in an economy with
+technology-driven deflation, it’s hard to imagine what could create sustainable inflation.
+Now, if this trend of falling rates and rising debt persists into perpetuity, the result would be
+infinitely negative rates and, in the end, one person would have 100% of the wealth while
+everyone else would be indebted to them. Thus, we find ourselves back in that empty, dark
+arena in Omaha, kindred spirits with Buffett in our puzzlement. Perhaps there is a solution to
+this quandary – one that almost seems demanded by the current, pandemic-exacerbated
+inequality in the world – redistribution. Economist and SFI External Professor Brian Arthur calls
+our economy today the “distributive era”. To paraphrase: we have created a lot of wealth in the global economy; now, it’s time to focus on increasing who has access to it. Distributing money
+to more people who are on less-certain financial footing is going to stabilize, or possibly reverse,
+the deflationary trend. However, it’s important to avoid excessive inflation and rising rates that
+would further burden the borrowers who are helped by redistribution.
+It seems like a hard needle to thread, but it is not impossible. Why? The deflationary pressure
+from the technology sector is going to step up dramatically as we move into the “AI Age” over
+the next century, and every part of the economy becomes tech enabled, starting from less than
+10% digital today. So, we probably have a wide berth to drive a little inflationary pressure and
+maintain low rates.
+That’s a neat and tidy story, right? It’s one possible explanation, and, moreover, it suggests that
+redistribution could be a way out of our current socio-economic quandary. But, we live in a world
+dominated by complex adaptive systems, which means that predicting the future isn’t so neat
+and tidy. Or, as Jim Goff said in one of our recent team meetings, “Just when you think you
+have something figured out, that’s when the market kicks you in the teeth”. The theory relies on
+smart redistribution by governments, and, if we’ve learned anything from the last few years, then
+we probably shouldn’t bank on smart decisions by governments around the world. And, the
+economy remains extremely vulnerable to inflationary shocks, although they remain elusive for
+the time being.
+While this mid-year update has focused on macroeconomic issues, we actually spend
+comparatively little time thinking about macro events from an investment perspective. As a
+whole, however, the recent turbulence serves to highlight the frequency of fat-tail events
+inherent to complex systems – and reinforces our philosophy of finding adaptable companies
+that are creating the new digital operating system for the economy. The pandemic of 2020 has
+accelerated the decades-long shift from the Industrial Age to the Information Age. Companies
+that are long-term focused, innovative, and maximizing non-zero-sum outcomes will
+disproportionately benefit. Our process is built to find these companies and craft a portfolio that
+balances Resilience and Optionality for our clients. Thank you for your continued trust, interest,
+and support.
